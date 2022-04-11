@@ -43,7 +43,7 @@ Firebase is categorized as a NoSQL database program, which stores data in JSON-l
 4. Test lab-The application is tested on virtual and physical devices located in Google’s data centers.
 5. Notifications-Notifications can be sent with firebase with no additional coding.Users can get started with firebase for free
 
-CloudcourseworkGroup21_Screenshot:
+Presentation attached as well in the issues.
 
 
 
